@@ -2,7 +2,7 @@
 
 **Code Authors:** Ben Silver, Liam Drew     
 
-**Project Objective:** Build a classifier to map a given grayscale image to the type of clothing it visualizes
+**Project Objective:** Build a classifier to map grayscale images to the type of clothing it visualizes
 
 ## Data Preparation
 The goal was to train a model to accurately categorize clothing. Because the provided Fashion MNIST dataset
